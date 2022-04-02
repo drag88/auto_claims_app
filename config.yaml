@@ -1,0 +1,11 @@
+claim_amts : 
+ 'bumper_dent': 1000
+ 'door_dent': 2000
+ 'door_scratch': 1000
+ 'front_whole': 12000
+ 'glass_shatter': 5000
+ 'head_lamp': 800
+ 'side_whole': 15000
+ 'tail_lamp': 1200
+ 
+ 
